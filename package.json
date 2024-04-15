@@ -1,0 +1,23 @@
+{
+  "name": "first.node",
+  "version": "3.0.0",
+  "description": "first.node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robamoadi/25.02.24node.sqlite.git"
+  },
+  "author": "roba moadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robamoadi/25.02.24node.sqlite/issues"
+  },
+  "homepage": "https://github.com/robamoadi/25.02.24node.sqlite#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
